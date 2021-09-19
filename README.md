@@ -1,5 +1,6 @@
 # zoom_web_py
-Zoom Web Linux py
+Zoom Web Linux py, this is intended for the Rapsberry Pi due to there not being a RPI Zoom client. 
+Enter the zoom meeting number, press enter, then you will be directed to the webclient for that meeting ID.
 
 # Dependencies required:
 python3
