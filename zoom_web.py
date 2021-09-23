@@ -29,7 +29,7 @@ spacer3 = Label(root, text = "")
 m_id = Label(root, text = "     Meeting ID:    ")
 
 
-ent = Entry(root)
+ent = Entry(root, justify = "center")
 
 m_id.grid(row=1)
 spacer.grid(row=0)
